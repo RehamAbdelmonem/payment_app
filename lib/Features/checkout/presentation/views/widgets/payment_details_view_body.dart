@@ -1,8 +1,5 @@
 import 'dart:developer';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:payment_app/Features/checkout/presentation/views/thank_you_view.dart';
 import 'package:payment_app/core/widgets/custom_button.dart';
 import 'custom_credit_card.dart';

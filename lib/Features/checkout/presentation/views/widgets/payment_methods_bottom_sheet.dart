@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:payment_app/core/widgets/custom_button.dart';
-
 import 'payment_methods_list_view.dart';
 
 class PaymentMethodsBottomSheet extends StatefulWidget {
@@ -35,8 +34,8 @@ class _PaymentMethodsBottomSheetState extends State<PaymentMethodsBottomSheet> {
           //   height: 16,
           // ),
           PaymentMethodsListView(
-            // updatePaymentMethod: updatePaymentMethod,
-          ),
+              // updatePaymentMethod: updatePaymentMethod,
+              ),
           SizedBox(
             height: 32,
           ),

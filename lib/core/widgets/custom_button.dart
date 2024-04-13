@@ -3,7 +3,9 @@ import 'package:payment_app/core/utils/styles.dart';
 
 class CustomButton extends StatelessWidget {
   const CustomButton({
-    super.key, this.onTap, required this.text,
+    super.key,
+    this.onTap,
+    required this.text,
   });
 
   final void Function()? onTap;

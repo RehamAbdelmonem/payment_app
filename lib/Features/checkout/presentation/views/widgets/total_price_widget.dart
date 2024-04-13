@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:payment_app/core/utils/styles.dart';
 
